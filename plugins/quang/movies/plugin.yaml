@@ -1,0 +1,11 @@
+plugin:
+    name: 'quang.movies::lang.plugin.name'
+    description: 'quang.movies::lang.plugin.description'
+    author: Quang
+    icon: oc-icon-android
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Movie
+        url: quang/movies/movies
+        icon: icon-video-camera

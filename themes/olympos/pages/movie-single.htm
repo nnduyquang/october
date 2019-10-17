@@ -1,0 +1,32 @@
+title = "Movie single"
+url = "/movies/movie/:slug"
+layout = "master"
+is_hidden = 0
+
+[builderDetails]
+modelClass = "Quang\Movies\Models\Movie"
+identifierValue = "{{ :slug }}"
+modelKeyColumn = "slug"
+displayColumn = "name"
+notFoundMessage = "Record not found"
+==
+{% set record = builderDetails.record %}
+{% set displayColumn = builderDetails.displayColumn %}
+{% set notFoundMessage = builderDetails.notFoundMessage %}
+
+{% if record %}
+<h2>{{record.name}}</h2>
+<img src="{{record.poster.thumb(200,auto)}}" alt="">
+<h4>{{record.year}}</h4>
+<h3>Description</h3>
+{{record.description|raw}}
+<h3>Gallery</h3>
+<ul>
+    {% for image in record.movie_gallery %}
+    <li><img src="{{image.thumb(80,80,{'mode':'crop'})}}" alt=""></li>
+
+    {% endfor %}
+</ul>
+{% else %}
+{{ notFoundMessage }}
+{% endif %}

@@ -1,0 +1,11 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table quang_movies_'
+    - builder_table_create_quang_movies_.php
+1.0.3:
+    - 'Updated table quang_movies_'
+    - builder_table_update_quang_movies_.php
+1.0.4:
+    - 'Updated table quang_movies_'
+    - builder_table_update_quang_movies__2.php

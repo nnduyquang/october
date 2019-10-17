@@ -67,25 +67,39 @@ class __TwigTemplate_74b944776d82610c858e8ebece2416bf08d0d981bceb9c3e14402969ef1
         // line 16
         echo "    </head>
     <body>
-
-        <!-- Header -->
+";
+        // line 18
+        $context['__cms_component_params'] = [];
+        echo $this->env->getExtension('Cms\Twig\Extension')->componentFunction("menu"        , $context['__cms_component_params']        );
+        unset($context['__cms_component_params']);
+        // line 19
+        echo "        <!-- Header -->
         <header id=\"layout-header\">
-           
-        </header>
+           ";
+        // line 21
+        $context['__cms_partial_params'] = [];
+        echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("header"        , $context['__cms_partial_params']        , true        );
+        unset($context['__cms_partial_params']);
+        // line 22
+        echo "        </header>
 
         <!-- Content -->
-        <section id=\"layout-content\">
-        <i class=\"fab fa-500px\"></i>
+        <section id=\"layout-content\" class=\"container clearfix\">
             ";
-        // line 27
+        // line 26
         echo $this->env->getExtension('Cms\Twig\Extension')->pageFunction();
-        // line 28
+        // line 27
         echo "        </section>
 
         <!-- Footer -->
         <footer id=\"layout-footer\">
-       
-        </footer>
+            ";
+        // line 31
+        $context['__cms_partial_params'] = [];
+        echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("footer"        , $context['__cms_partial_params']        , true        );
+        unset($context['__cms_partial_params']);
+        // line 32
+        echo "        </footer>
 
         <!-- Scripts -->
         <script src=\"https://code.jquery.com/jquery-3.3.1.slim.min.js\"
@@ -95,11 +109,11 @@ class __TwigTemplate_74b944776d82610c858e8ebece2416bf08d0d981bceb9c3e14402969ef1
                 integrity=\"sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy\"
                 crossorigin=\"anonymous\"></script>
         <script src=\"";
-        // line 42
+        // line 41
         echo "assets/js/app.js";
         echo "\"></script>
         ";
-        // line 43
+        // line 42
         $_minify = System\Classes\CombineAssets::instance()->useMinify;
         if ($_minify) {
             echo '<script src="' . Request::getBasePath() . '/modules/system/assets/js/framework.combined-min.js"></script>'.PHP_EOL;
@@ -110,11 +124,11 @@ class __TwigTemplate_74b944776d82610c858e8ebece2416bf08d0d981bceb9c3e14402969ef1
         }
         echo '<link rel="stylesheet" property="stylesheet" href="' . Request::getBasePath() .'/modules/system/assets/css/framework.extras'.($_minify ? '-min' : '').'.css">'.PHP_EOL;
         unset($_minify);
-        // line 44
+        // line 43
         echo "        ";
         echo $this->env->getExtension('Cms\Twig\Extension')->assetsFunction('js');
         echo $this->env->getExtension('Cms\Twig\Extension')->displayBlock('scripts');
-        // line 45
+        // line 44
         echo "
     </body>
 </html>";
@@ -132,7 +146,7 @@ class __TwigTemplate_74b944776d82610c858e8ebece2416bf08d0d981bceb9c3e14402969ef1
 
     public function getDebugInfo()
     {
-        return array (  118 => 45,  114 => 44,  103 => 43,  99 => 42,  83 => 28,  81 => 27,  68 => 16,  65 => 15,  58 => 11,  51 => 7,  47 => 6,  43 => 5,  37 => 1,);
+        return array (  132 => 44,  128 => 43,  117 => 42,  113 => 41,  102 => 32,  98 => 31,  92 => 27,  90 => 26,  84 => 22,  80 => 21,  76 => 19,  72 => 18,  68 => 16,  65 => 15,  58 => 11,  51 => 7,  47 => 6,  43 => 5,  37 => 1,);
     }
 
     public function getSourceContext()
@@ -154,21 +168,20 @@ class __TwigTemplate_74b944776d82610c858e8ebece2416bf08d0d981bceb9c3e14402969ef1
         {% styles %}
     </head>
     <body>
-
+{% component 'menu' %}
         <!-- Header -->
         <header id=\"layout-header\">
-           
+           {% partial \"header\" %}
         </header>
 
         <!-- Content -->
-        <section id=\"layout-content\">
-        <i class=\"fab fa-500px\"></i>
+        <section id=\"layout-content\" class=\"container clearfix\">
             {% page %}
         </section>
 
         <!-- Footer -->
         <footer id=\"layout-footer\">
-       
+            {% partial \"footer\" %}
         </footer>
 
         <!-- Scripts -->

@@ -1,0 +1,11 @@
+name: Movies
+modelClass: Quang\Movies\Models\Movie
+form: $/quang/movies/models/movie/fields.yaml
+defaultRedirect: quang/movies/movies
+create:
+    redirect: 'quang/movies/movies/update/:id'
+    redirectClose: quang/movies/movies
+update:
+    redirect: quang/movies/movies
+    redirectClose: quang/movies/movies
+preview: {  }

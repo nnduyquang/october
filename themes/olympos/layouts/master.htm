@@ -1,3 +1,5 @@
+[menu]
+menu_id = 1
 ==
 <!DOCTYPE html>
 <html>
@@ -16,20 +18,20 @@
         {% styles %}
     </head>
     <body>
-
+{% component 'menu' %}
         <!-- Header -->
         <header id="layout-header">
-           
+           {% partial "header" %}
         </header>
 
         <!-- Content -->
-        <section id="layout-content">
+        <section id="layout-content" class="container clearfix">
             {% page %}
         </section>
 
         <!-- Footer -->
         <footer id="layout-footer">
-       
+            {% partial "footer" %}
         </footer>
 
         <!-- Scripts -->

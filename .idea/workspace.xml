@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="616cf51b-8735-47d6-8415-a5f98c61f19a" name="Default" comment="" />
+    <list default="true" id="616cf51b-8735-47d6-8415-a5f98c61f19a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/themes/olympos/layouts/static-master.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/olympos/partials/footer.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/olympos/partials/header.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/1e/b0/fallback.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/27/23/blog.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/31/94/master.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/44/2d/trang-chu.htm.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/cache/44/2d/trang-chu.htm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/67/5d/home.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/6e/e9/master.htm.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/cache/6e/e9/master.htm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/70/ca/blog-post.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/83/5d/header.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/be/c3/footer.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/02/0234d388fccc222f1cea00dc3be6a91ed44414a0289a0c050a227df8a8928956.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/03/0358f38fae4ede498439a26a570a7c9c9e16aacf18093203fcd60a6b402c590b.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/25/25ec44e0de8161e30e95f71749e219793cae0c9b815ed15280cae501193adbe7.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/41/410a38a0cb7048d72e14e932cf8b104a478a6a40c8700817be4476c42d9d9925.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/65/656944ce7df6e67bd371633547ece8f2d9e947579afedb684852b17ef4bbd7bf.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/84/84f96f815d5496f7c558eb804ddb7f33935a339b83f0e8ce216114f1adfc0abe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/a0/a03fa6ae9c113c9b963be96f97c5a85e29500f0dcb57964cf02528c4da046964.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/c6/c60bf3c99f6f1d66478694d2eca0034b93aa373b9f7a8e65125e5cebfce4bb7d.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/cb/cb5c8a8351e0277cbd955220478741b1c01b5d8c8a6b95cf50a67de5fcd01867.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/twig/cb/cb5c8a8351e0277cbd955220478741b1c01b5d8c8a6b95cf50a67de5fcd01867.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/da/da96f8dad1f38cdad3c09296d9b8a2ff4cf4ec1855a7e022c7eb3d12aba90865.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/classes.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/classes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/olympos/layouts/master.htm" beforeDir="false" afterPath="$PROJECT_DIR$/themes/olympos/layouts/master.htm" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,21 +35,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="home.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/demo/pages/home.htm">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="footer.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/demo/partials/site/footer.htm">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="master.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/demo/layouts/master.htm">
           <provider selected="true" editor-type-id="text-editor">
@@ -33,21 +49,74 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/olympos/assets/js/app.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/demo/composer.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="master.htm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="master.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/master.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="281">
+              <caret line="25" column="64" selection-end-line="46" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="static-master.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/static-master.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/olympos/partials/header.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/olympos/partials/footer.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Plugin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/quang/movies/Plugin.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Movie.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/quang/movies/models/Movie.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="movie-single.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/olympos/pages/movie-single.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="movies.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/olympos/pages/movies.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="e#1458#1464#0" expanded="true" />
+                <element signature="e#1924#1930#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,17 +132,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/olympos/theme.yaml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/themes/olympos/partials/footer.htm" />
         <option value="$PROJECT_DIR$/themes/olympos/layouts/master.htm" />
+        <option value="$PROJECT_DIR$/themes/olympos/partials/header.htm" />
+        <option value="$PROJECT_DIR$/plugins/quang/movies/models/Movie.php" />
+        <option value="$PROJECT_DIR$/themes/olympos/pages/movie-single.htm" />
+        <option value="$PROJECT_DIR$/themes/olympos/layouts/static-master.htm" />
       </list>
     </option>
   </component>
@@ -88,8 +160,6 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/package.json" />
-      <path value="$PROJECT_DIR$/vendor/facade/ignition/package.json" />
-      <path value="$PROJECT_DIR$/vendor/kriswallsmith/assetic/package.json" />
     </packageJsonPaths>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -199,18 +269,18 @@
       <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1394" />
     <option name="height" value="916" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,49 +291,64 @@
             <path>
               <item name="october" type="b2602c69:ProjectViewProjectNode" />
               <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="october" type="b2602c69:ProjectViewProjectNode" />
+              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="quang" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="october" type="b2602c69:ProjectViewProjectNode" />
+              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="quang" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="movies" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="october" type="b2602c69:ProjectViewProjectNode" />
+              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="quang" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="movies" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="october" type="b2602c69:ProjectViewProjectNode" />
+              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="quang" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="movies" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="october" type="b2602c69:ProjectViewProjectNode" />
+              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="quang" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="movies" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="movie" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="october" type="b2602c69:ProjectViewProjectNode" />
+              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="quang" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="movies" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="updates" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="october" type="b2602c69:ProjectViewProjectNode" />
               <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="october" type="b2602c69:ProjectViewProjectNode" />
-              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="october" type="b2602c69:ProjectViewProjectNode" />
-              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="october" type="b2602c69:ProjectViewProjectNode" />
               <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="olympos" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="october" type="b2602c69:ProjectViewProjectNode" />
-              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="olympos" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="october" type="b2602c69:ProjectViewProjectNode" />
-              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="olympos" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="october" type="b2602c69:ProjectViewProjectNode" />
@@ -272,10 +357,25 @@
               <item name="olympos" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="october" type="b2602c69:ProjectViewProjectNode" />
+              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="olympos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="october" type="b2602c69:ProjectViewProjectNode" />
+              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="olympos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,6 +384,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\october\themes\olympos\layouts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -308,36 +413,38 @@
       <option name="presentableId" value="Default" />
       <updated>1571109718959</updated>
       <workItem from="1571109721253" duration="3186000" />
+      <workItem from="1571187975686" duration="578000" />
+      <workItem from="1571276018785" duration="8591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3186000" />
+    <option name="totallyTimeSpent" value="12355000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1394" height="916" extended-state="6" />
+    <frame x="-8" y="-8" width="1394" height="916" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info id="npm" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962519" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25712144" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,14 +454,51 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/demo/pages/home.htm">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/themes/demo/layouts/master.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/demo/partials/site/footer.htm">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/themes/demo/assets/javascript/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/olympos/theme.yaml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/master.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/demo/layouts/master.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/demo/assets/javascript/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/master.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/demo/assets/javascript/app.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -372,16 +516,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/olympos/assets/js/app.js">
+    <entry file="file://$PROJECT_DIR$/plugins/quang/movies/Plugin.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/demo/composer.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/themes/olympos/pages/movies.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#1458#1464#0" expanded="true" />
+            <element signature="e#1924#1930#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/quang/movies/models/Movie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/pages/movie-single.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/master.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="281">
+          <caret line="25" column="64" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/partials/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/partials/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/static-master.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
         </state>
       </provider>
     </entry>
