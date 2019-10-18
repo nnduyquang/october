@@ -2,6 +2,8 @@ title = "blog-detail"
 url = "/blog-detail/:slug"
 layout = "master"
 is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
 
 [blogPost]
 slug = "{{ :slug }}"
@@ -9,8 +11,12 @@ categoryPage = "Blog"
 
 [related]
 slug = "{{ :slug }}"
+
+[SeoBlogPost]
+post = "post"
 ==
 {% set post = blogPost.post %}
+{% component 'SeoBlogPost' data=post %}
 
 <div class="content">{{ post.content_html|raw }}</div>
 

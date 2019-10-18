@@ -1,0 +1,6 @@
+fields:
+    blog_slug:
+        span: left
+        label: 'Blog slug'
+        commentAbove: 'it can be "slug" or "blogslug"'
+        type: text

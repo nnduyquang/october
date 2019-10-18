@@ -52,53 +52,59 @@ class __TwigTemplate_74b944776d82610c858e8ebece2416bf08d0d981bceb9c3e14402969ef1
         echo "\">
         <meta name=\"author\" content=\"OctoberCMS\">
         <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
-        <meta name=\"generator\" content=\"OctoberCMS\">
-        <link rel=\"icon\" type=\"image/png\" href=\"";
+         ";
+        // line 10
+        $context['__cms_component_params'] = [];
+        echo $this->env->getExtension('Cms\Twig\Extension')->componentFunction("SeoCmsPage"        , $context['__cms_component_params']        );
+        unset($context['__cms_component_params']);
         // line 11
+        echo "        <meta name=\"generator\" content=\"OctoberCMS\">
+        <link rel=\"icon\" type=\"image/png\" href=\"";
+        // line 12
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/october.png");
         echo "\">
         <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css\"
               integrity=\"sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO\" crossorigin=\"anonymous\">
         <script src=\"https://kit.fontawesome.com/20005df3fc.js\" crossorigin=\"anonymous\"></script>
         ";
-        // line 15
+        // line 16
         echo $this->env->getExtension('Cms\Twig\Extension')->assetsFunction('css');
         echo $this->env->getExtension('Cms\Twig\Extension')->displayBlock('styles');
-        // line 16
+        // line 17
         echo "    </head>
     <body>
 ";
-        // line 18
+        // line 19
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->componentFunction("menu"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
-        // line 19
+        // line 20
         echo "        <!-- Header -->
         <header id=\"layout-header\">
            ";
-        // line 21
+        // line 22
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("header"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 22
+        // line 23
         echo "        </header>
 
         <!-- Content -->
         <section id=\"layout-content\" class=\"container clearfix\">
             ";
-        // line 26
-        echo $this->env->getExtension('Cms\Twig\Extension')->pageFunction();
         // line 27
+        echo $this->env->getExtension('Cms\Twig\Extension')->pageFunction();
+        // line 28
         echo "        </section>
 
         <!-- Footer -->
         <footer id=\"layout-footer\">
             ";
-        // line 31
+        // line 32
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("footer"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 32
+        // line 33
         echo "        </footer>
 
         <!-- Scripts -->
@@ -109,11 +115,11 @@ class __TwigTemplate_74b944776d82610c858e8ebece2416bf08d0d981bceb9c3e14402969ef1
                 integrity=\"sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy\"
                 crossorigin=\"anonymous\"></script>
         <script src=\"";
-        // line 41
+        // line 42
         echo "assets/js/app.js";
         echo "\"></script>
         ";
-        // line 42
+        // line 43
         $_minify = System\Classes\CombineAssets::instance()->useMinify;
         if ($_minify) {
             echo '<script src="' . Request::getBasePath() . '/modules/system/assets/js/framework.combined-min.js"></script>'.PHP_EOL;
@@ -124,11 +130,11 @@ class __TwigTemplate_74b944776d82610c858e8ebece2416bf08d0d981bceb9c3e14402969ef1
         }
         echo '<link rel="stylesheet" property="stylesheet" href="' . Request::getBasePath() .'/modules/system/assets/css/framework.extras'.($_minify ? '-min' : '').'.css">'.PHP_EOL;
         unset($_minify);
-        // line 43
+        // line 44
         echo "        ";
         echo $this->env->getExtension('Cms\Twig\Extension')->assetsFunction('js');
         echo $this->env->getExtension('Cms\Twig\Extension')->displayBlock('scripts');
-        // line 44
+        // line 45
         echo "
     </body>
 </html>";
@@ -146,7 +152,7 @@ class __TwigTemplate_74b944776d82610c858e8ebece2416bf08d0d981bceb9c3e14402969ef1
 
     public function getDebugInfo()
     {
-        return array (  132 => 44,  128 => 43,  117 => 42,  113 => 41,  102 => 32,  98 => 31,  92 => 27,  90 => 26,  84 => 22,  80 => 21,  76 => 19,  72 => 18,  68 => 16,  65 => 15,  58 => 11,  51 => 7,  47 => 6,  43 => 5,  37 => 1,);
+        return array (  138 => 45,  134 => 44,  123 => 43,  119 => 42,  108 => 33,  104 => 32,  98 => 28,  96 => 27,  90 => 23,  86 => 22,  82 => 20,  78 => 19,  74 => 17,  71 => 16,  64 => 12,  61 => 11,  57 => 10,  51 => 7,  47 => 6,  43 => 5,  37 => 1,);
     }
 
     public function getSourceContext()
@@ -160,6 +166,7 @@ class __TwigTemplate_74b944776d82610c858e8ebece2416bf08d0d981bceb9c3e14402969ef1
         <meta name=\"title\" content=\"{{ this.page.meta_title }}\">
         <meta name=\"author\" content=\"OctoberCMS\">
         <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
+         {% component 'SeoCmsPage' %}
         <meta name=\"generator\" content=\"OctoberCMS\">
         <link rel=\"icon\" type=\"image/png\" href=\"{{ 'assets/images/october.png'|theme }}\">
         <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css\"

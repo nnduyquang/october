@@ -2,31 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="616cf51b-8735-47d6-8415-a5f98c61f19a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/olympos/layouts/static-master.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/olympos/partials/footer.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/olympos/partials/header.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/1e/b0/fallback.htm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/27/23/blog.htm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/31/94/master.htm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/44/2d/trang-chu.htm.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/cache/44/2d/trang-chu.htm.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/67/5d/home.htm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/6e/e9/master.htm.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/cache/6e/e9/master.htm.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/70/ca/blog-post.htm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/83/5d/header.htm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/be/c3/footer.htm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/02/0234d388fccc222f1cea00dc3be6a91ed44414a0289a0c050a227df8a8928956.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/03/0358f38fae4ede498439a26a570a7c9c9e16aacf18093203fcd60a6b402c590b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/25/25ec44e0de8161e30e95f71749e219793cae0c9b815ed15280cae501193adbe7.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/41/410a38a0cb7048d72e14e932cf8b104a478a6a40c8700817be4476c42d9d9925.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/65/656944ce7df6e67bd371633547ece8f2d9e947579afedb684852b17ef4bbd7bf.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/2f/c2/blog-detail.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/3e/55/header.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/42/27/footer.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/44/2d/trang-chu.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/6e/e9/master.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/9b/fe/Blog.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/32/327db4e2982a869e7435f9a6cd7eeadedd871ab1c2c3c99e98374f5a92fbb2e8.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/cms/twig/84/84f96f815d5496f7c558eb804ddb7f33935a339b83f0e8ce216114f1adfc0abe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/a0/a03fa6ae9c113c9b963be96f97c5a85e29500f0dcb57964cf02528c4da046964.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/c6/c60bf3c99f6f1d66478694d2eca0034b93aa373b9f7a8e65125e5cebfce4bb7d.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/cb/cb5c8a8351e0277cbd955220478741b1c01b5d8c8a6b95cf50a67de5fcd01867.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/twig/cb/cb5c8a8351e0277cbd955220478741b1c01b5d8c8a6b95cf50a67de5fcd01867.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/da/da96f8dad1f38cdad3c09296d9b8a2ff4cf4ec1855a7e022c7eb3d12aba90865.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/classes.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/classes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/olympos/layouts/master.htm" beforeDir="false" afterPath="$PROJECT_DIR$/themes/olympos/layouts/master.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/85/8533d37133e76c9397b0a17d8116c836d091f92ee6f566a9f314dbfb0cddc243.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/8c/8c6ec8c2cf8bebe73c02d6271ec963f6077d3d58fa4720a96d009503635f80c9.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/92/92b627ab9f3db38ca26578aea0170ff6a70660a03d6ba9ae0afd1d40e1adc95b.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/ac/ac715490eaf5343c9bacfe536307d3b452c7e942dbffca0d637f1c089fa6e799.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/cb/cb5c8a8351e0277cbd955220478741b1c01b5d8c8a6b95cf50a67de5fcd01867.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/fe/fefde6cc0c313ce80e303fa7a2e1040a189d3daf867687565e90ff6bff3c77e6.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,8 +33,8 @@
       <file leaf-file-name="master.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/demo/layouts/master.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+            <state relative-caret-position="94">
+              <caret line="12" column="87" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -52,19 +42,31 @@
       <file leaf-file-name="master.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/master.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="25" column="64" selection-end-line="46" selection-end-column="7" />
+            <state relative-caret-position="425">
+              <caret line="27" column="64" selection-end-line="48" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static-master.htm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="static-master.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/static-master.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="587">
+            <state relative-caret-position="332">
               <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Blog.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/olympos/pages/Blog.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-178" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog-detail.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/olympos/pages/blog-detail.htm">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="header.htm" pinned="false" current-in-tab="false">
@@ -85,51 +87,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Plugin.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/quang/movies/Plugin.php">
+      <file leaf-file-name="Movie.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/quang/movies/models/Movie.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="38" column="6" selection-start-line="36" selection-start-column="4" selection-end-line="38" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fields.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/quang/movies/models/movie/fields.yaml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="Movie.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/quang/movies/models/Movie.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="movie-single.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/olympos/pages/movie-single.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="movies.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/olympos/pages/movies.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="e#1458#1464#0" expanded="true" />
-                <element signature="e#1924#1930#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/demo/assets/javascript/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="columns.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/quang/movies/models/movie/columns.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -281,6 +255,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -348,34 +323,19 @@
               <item name="october" type="b2602c69:ProjectViewProjectNode" />
               <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="olympos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="october" type="b2602c69:ProjectViewProjectNode" />
               <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="olympos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="october" type="b2602c69:ProjectViewProjectNode" />
-              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="olympos" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="october" type="b2602c69:ProjectViewProjectNode" />
-              <item name="october" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="olympos" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -415,11 +375,12 @@
       <workItem from="1571109721253" duration="3186000" />
       <workItem from="1571187975686" duration="578000" />
       <workItem from="1571276018785" duration="8591000" />
+      <workItem from="1571361740848" duration="3224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12355000" />
+    <option name="totallyTimeSpent" value="15579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1394" height="916" extended-state="1" />
@@ -432,7 +393,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25712144" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26086956" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -461,72 +422,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/demo/assets/javascript/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/master.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="425">
+          <caret line="25" column="64" selection-end-line="46" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/demo/layouts/master.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/demo/assets/javascript/app.js">
+    <entry file="file://$PROJECT_DIR$/themes/olympos/partials/header.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <caret selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/master.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/demo/assets/javascript/app.js">
+    <entry file="file://$PROJECT_DIR$/themes/olympos/partials/footer.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/demo/layouts/master.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/quang/movies/Plugin.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/olympos/pages/movies.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#1458#1464#0" expanded="true" />
-            <element signature="e#1924#1930#0" expanded="true" />
-          </folding>
+          <caret selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -544,10 +457,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/pages/movies.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/demo/assets/javascript/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/static-master.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/demo/layouts/master.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/demo/assets/javascript/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/master.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="25" column="64" selection-end-line="46" selection-end-column="7" />
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/demo/layouts/master.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/demo/assets/javascript/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/master.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/demo/assets/javascript/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/pages/movies.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/pages/movie-single.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/master.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="64" selection-end-line="48" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -567,8 +548,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/static-master.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
+        <state relative-caret-position="332">
           <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/pages/Blog.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/pages/blog-detail.htm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/demo/layouts/master.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="12" column="87" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/quang/movies/models/movie/columns.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/quang/movies/models/movie/fields.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/quang/movies/models/Movie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="38" column="6" selection-start-line="36" selection-start-column="4" selection-end-line="38" selection-end-column="6" />
         </state>
       </provider>
     </entry>
